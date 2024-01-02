@@ -6,6 +6,10 @@ This repository contains implementation details and experimental setup for the w
 
 The complete PyTorch models used in this study are available for download. You can access them here: [Download PyTorch Models](https://drive.google.com/file/d/1t7TpTCrmWrFm_HnTDz0bpIDvgV3MLdga/view?usp=sharing).
 
+## Python Dependencies
+
+The `requirements.txt` file in this repository lists all the Python libraries for the setup we used.
+
 ## Repository Updates
 
 Stay tuned, as this repository is updated frequently. We will be providing Python scripts for an even easier way to load and use the pre-trained models, as well as to reproduce the experimental results.
