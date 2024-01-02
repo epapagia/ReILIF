@@ -1,0 +1,11 @@
+# Repository for "Long-term Regional Influenza-like-illness Forecasting Using Exogenous Data"
+
+This repository contains implementation details and experimental setup for the work by Eirini Papagiannopoulou, Matias Bossa, Nikos Deligiannis, and Hichem Sahli, titled *"Long-term Regional Influenza-like-illness Forecasting Using Exogenous Data"*.
+
+## Pre-Trained Models
+
+The complete PyTorch models used in this study are available for download. You can access them here: [Download PyTorch Models](https://drive.google.com/file/d/1t7TpTCrmWrFm_HnTDz0bpIDvgV3MLdga/view?usp=sharing).
+
+## Repository Updates
+
+Stay tuned, as this repository is updated frequently. We will be providing Python scripts for an even easier way to load and use the pre-trained models, as well as to reproduce the experimental results.
