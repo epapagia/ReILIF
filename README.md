@@ -4,7 +4,7 @@ This repository contains implementation details and experimental setup for the w
 
 ## Pre-Trained Models
 
-The complete PyTorch models used in this study are available for download. You can access them here: [Download PyTorch Models](https://drive.google.com/file/d/1t7TpTCrmWrFm_HnTDz0bpIDvgV3MLdga/view?usp=sharing).
+The complete PyTorch models used in this study are available for download. You can access them here: [Download PyTorch Models](https://drive.google.com/file/d/1t7TpTCrmWrFm_HnTDz0bpIDvgV3MLdga/view?usp=sharing). Also, we have included Optuna .pkl files in the optuna/ directory, which contain all the hyperparameters' values used in each experiment for the ReLiIF method, chosen after tuning with the Optuna library. These files provide full transparency and aid in replicating our experimental results.
 
 ## Python Dependencies
 
